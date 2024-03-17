@@ -1,4 +1,5 @@
-In this project, let's build a **Click Counter** by applying the concepts we have learned till now.
+This react project is about creating an **Click Counter**, so that we can keep a track about how many times we have clicked.
+Note: It show's how the class Component actually works through Rendering each time when we update the state..
 
 ### It looks like:
 
