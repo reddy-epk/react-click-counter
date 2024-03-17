@@ -1,0 +1,31 @@
+.clicksy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f1f5f8;
+  min-height: 100vh;
+}
+.red {
+  color: #c20a72;
+}
+h1 {
+  font-family: roboto;
+  font-size: 30px;
+  font-weight: 800;
+  color: #2d3a35;
+}
+p {
+  font-family: roboto;
+  font-size: 21px;
+}
+button{
+  background-color:  #007bff;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+  border-width: 0px;
+  padding: 20px;
+  border-radius: 10px;
+
+}
