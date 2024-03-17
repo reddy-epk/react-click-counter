@@ -1,6 +1,6 @@
 In this project, let's build a **Click Counter** by applying the concepts we have learned till now.
 
-### Refer to the image below:
+### It looks like:
 
 <br/>
 <div style="text-align: center;">
